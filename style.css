@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+body{
+    background-color:white;
+}
+h1 {
+    font-size:48px;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
+    color:black;
+}
+h2 {
+    font-size:32px;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
+    color:red;
+}
+p {
+    font-size:20px;
+    font-family: 'Montserrat', 'Roboto', sans-serif;
+    color:black;
+}
+#language-list {
+    font-family: 'Montserrat', sans-serif;
+    font-size:24px;
+}
